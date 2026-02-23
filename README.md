@@ -1,4 +1,4 @@
-# Kerala-Travel-Chatbot-Enhanced
+# Aventus
 git init
 git remote add origin https://github.com/YourUsername/Kerala-Travel-Chatbot-Enhanced.git
 git add .
